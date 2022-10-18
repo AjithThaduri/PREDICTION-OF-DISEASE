@@ -1,4 +1,4 @@
 # PREDICTION-OF-DISEASE
-The project is about prediction of Diseases based on physical symptoms.
+
 The project is aimed to predict the disease and its precautions based on the physical symptoms. The project proceeds with the intake of the dataset. The dataset is used to predict the disease of the person. Overall, this project solves the problem for people unaware of medical conditions and diseases during their rough times. It provides appropriate diseases which can be helpful to get an opinion of their condition. These days people are neglecting to visit the hospital until the problem gets severe so this project may help people of economical classes to get a first opinion. The study aims to assess whether it is possible to predict a person's disease using machine learning
 ![image](https://user-images.githubusercontent.com/116060612/196358512-629a2201-01d6-4acc-96bf-bfd4df0ab5b3.png)
